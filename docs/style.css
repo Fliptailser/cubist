@@ -1,0 +1,43 @@
+body{
+	background-color: #801010;
+	font-family: 'Baloo Tamma', cursive;
+}
+
+p{
+	font-size: 30px;
+	padding: 20px;
+	text-align: center;
+}
+
+label{
+	color: #FFFFFF;
+	font-size: 30px;
+		margin-left: 100px;
+	margin-right: 100px;
+	text-align: center;
+}
+
+#header {
+	height: 150px;
+	font-family: 'Baloo Tamma', cursive;
+	color: #FFFFFF;
+}
+
+#apptitle {
+	font-family: 'Baloo Tamma', cursive;
+	font-size: 50px;
+	float:left;
+	margin-left: 150px;
+}
+
+#explainer {
+	background-color: #803030;
+	font-family: 'Baloo Tamma', cursive;
+	margin-left: 100px;
+	margin-right: 100px;
+	
+    outline-color: #A08080;
+	outline-style: dashed;
+	color: #FFFFFF;
+}
+
